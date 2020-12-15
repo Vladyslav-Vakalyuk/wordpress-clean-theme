@@ -25,8 +25,32 @@ function clean_customize_register( $wp_customize ) {
 			'render_callback' => 'clean_customize_partial_blogdescription',
 		) );
 	}
+
+}
+function clean_home_category($wp_customize)
+{
+
+	$wp_customize->add_section('clean_home_category', array(
+		'title'    => __('clean_home_category', 'clean'),
+		'priority' => 100,
+	));
+
+	//  =============================
+	//  = Text Input                =
+	//  =============================
+	$wp_customize->add_setting('clean_home_category', array(
+		'transport' => 'refresh',
+
+	));
+
+	$wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'clean_home_category', array(
+		'label'      => __( 'clean_home_category', 'clean' ),
+		'section'    => 'clean_home_category',
+		'settings'   => 'clean_home_category',
+	) ) );
 }
 add_action( 'customize_register', 'clean_customize_register' );
+add_action( 'customize_register', 'clean_home_category' );
 
 /**
  * Render the site title for the selective refresh partial.

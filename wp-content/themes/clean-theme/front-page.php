@@ -1,6 +1,8 @@
 <?php
 get_header();
 ?>
+
+<?php if(is_front_page() && get_theme_mod('clean_home_category')): ?>
 <div id="fh5co-portfolio">
 	<?php
 	$query = new WP_Query(
@@ -40,5 +42,28 @@ get_header();
 	<?php wp_reset_postdata(); ?>
 </div>
 <?php
+
+	if(have_posts()):
+
+		while (have_posts()):
+		the_post();
+
+	 the_title();
+	 the_content();
+	 the_permalink();
+
+		endwhile;
+
+		endif;
+
+
+
+
+
+
+
+	?>
+<?php
+endif;
 get_footer();
 ?>
