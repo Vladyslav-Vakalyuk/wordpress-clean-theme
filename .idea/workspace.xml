@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="198c03cb-2a8d-452a-a0f9-715ad5c566d9" name="Default Changelist" comment="" />
+    <list default="true" id="198c03cb-2a8d-452a-a0f9-715ad5c566d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/archive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/custom-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/custom-header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/customizer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/customizer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/jetpack.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/jetpack.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/template-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/template-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/template-tags.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/inc/template-tags.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/js/customizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/js/customizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/js/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/js/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/languages/clean-theme.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/phpcs.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/phpcs.xml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content-none.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content-none.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content-page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content-search.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content-search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts/content.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +45,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lfDDTWFJPL36fnBp0064ng0fxQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -36,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607979133497</updated>
       <workItem from="1607979135101" duration="11000" />
-      <workItem from="1607979223693" duration="1109000" />
+      <workItem from="1607979223693" duration="6279000" />
     </task>
     <servers />
   </component>
