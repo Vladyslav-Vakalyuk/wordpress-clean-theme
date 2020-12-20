@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="198c03cb-2a8d-452a-a0f9-715ad5c566d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/class-fw-shortcode-section.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/template-component/class-fw-ext-builder-templates-component-section.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/template-component/init.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/template-component/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/includes/template-component/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/css/background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/css/jquery.fs.wallpaper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/background.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/jquery.fs.wallpaper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/jquery.fs.wallpaper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/static/js/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/clean-theme/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +25,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/clean-theme/framework-customizations/extensions/shortcodes/shortcodes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\template-parts" />
+      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme" />
       <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\framework-customizations\extensions\shortcodes\shortcodes" />
       <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\framework-customizations\extensions" />
-      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme" />
       <recent name="C:\OpenServer\domains\wordpress\wp-content\themes" />
     </key>
   </component>
@@ -74,6 +52,7 @@
       <workItem from="1608114907346" duration="1201000" />
       <workItem from="1608198599315" duration="14000" />
       <workItem from="1608235502045" duration="5850000" />
+      <workItem from="1608500406075" duration="1120000" />
     </task>
     <servers />
   </component>
