@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="198c03cb-2a8d-452a-a0f9-715ad5c566d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,17 +26,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/clean-theme/template-parts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/law" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\template-parts" />
-      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme" />
-      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\framework-customizations\extensions\shortcodes\shortcodes" />
-      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\framework-customizations\extensions" />
+      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\law" />
+      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\law\inc\tgm" />
+      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\law\inc" />
       <recent name="C:\OpenServer\domains\wordpress\wp-content\themes" />
+      <recent name="C:\OpenServer\domains\wordpress\wp-content\themes\clean-theme\template-parts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,11 +53,21 @@
       <workItem from="1608114907346" duration="1201000" />
       <workItem from="1608198599315" duration="14000" />
       <workItem from="1608235502045" duration="5850000" />
-      <workItem from="1608500406075" duration="1120000" />
+      <workItem from="1608500406075" duration="1758000" />
+      <workItem from="1608541550101" duration="7000" />
+      <workItem from="1608544421535" duration="182000" />
+      <workItem from="1608659044802" duration="3527000" />
+      <workItem from="1608713291500" duration="15000" />
+      <workItem from="1609254212806" duration="10047000" />
+      <workItem from="1609692999414" duration="22000" />
+      <workItem from="1609693068262" duration="6197000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\OpenServer\domains\wordpress</wordpressPath>
   </component>
 </project>
